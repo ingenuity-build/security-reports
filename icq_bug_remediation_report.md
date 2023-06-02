@@ -4,11 +4,11 @@ This report describes a vulnerability discovered in the ICQ implementation on Qu
 
 ### Executive Summary
 
-**Date of Report:** May 30, 2023
+**Date of Report:** May 30, 2023.
 
 **Time between Bug Report & Resolution:** 25.5 hours
 
-**Authors:** Quicksilver Development team
+**Authors:** Quicksilver Development team.
 
 **Status:** Resolved WITHOUT outstanding action items.
 
@@ -20,7 +20,7 @@ This report describes a vulnerability discovered in the ICQ implementation on Qu
 
 **Remediation Impact on Quicksilver Chain:**
 
-1. Chain halt for 1 hours and 15 minutes
+1. Chain halt for 1 hours and 15 minutes.
 
 
 ### **ICQ on Quicksilver**
