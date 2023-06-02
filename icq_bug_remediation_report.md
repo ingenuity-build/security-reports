@@ -72,8 +72,8 @@ The fix changed the deposit callback logic to reconstitute the transaction from 
 
 **0900**: Final fix is identified, implemented and shared with reporters, who confirm they are no longer able to execute the exploit.
 
-**1100**: Chain halts
+**1100**: Chain halts.
 
-**1145**: [v1.2.13](https://github.com/ingenuity-build/quicksilver/releases/tag/v1.2.13) is released
+**1145**: [v1.2.13](https://github.com/ingenuity-build/quicksilver/releases/tag/v1.2.13) is released.
 
-**1215**: Chain resumes
+**1215**: Chain resumes.
