@@ -1,5 +1,5 @@
 ### ICQ Bug Remediation Report
-This report describes a vulnerability discovered in the ICQ implementation on Quicksilver. The issue was responsibly disclosed to Quicksilver by [Puneet Mahajan](https://github.com/puneet2019) from pSTAKE Finance on May 29, 2023 at 1200 UTC, and was fixed within 25.5 hours via a chain halt on May 30, 2023 at 1100 UTC and subsequent upgrade on May 30, 2023 at 1315 UTC. Puneet and the pSTAKE team are applauded for their forthright attitude, collaboration, and diligence. Thanks to this effort, no malicious exploit occurred.
+This report describes a vulnerability discovered in the ICQ implementation on Quicksilver. The issue was responsibly disclosed to Quicksilver by [Puneet Mahajan](https://github.com/puneet2019) from pSTAKE Finance on May 29, 2023 at 1100 UTC, and was fixed within 25.5 hours via a chain halt on May 30, 2023 at 1100 UTC and subsequent upgrade on May 30, 2023 at 1215 UTC. Puneet and the pSTAKE team are applauded for their forthright attitude, collaboration, and diligence. Thanks to this effort, no malicious exploit occurred.
 
 
 ### Executive Summary
