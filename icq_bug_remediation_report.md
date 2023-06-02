@@ -74,6 +74,6 @@ The fix changed the deposit callback logic to reconstitute the transaction from 
 
 **1100**: Chain halts
 
-**1145**: [v1.2.13](https://github.com/ingenuity-build/quicksilver/releases/tag/v1.2.13) is release
+**1145**: [v1.2.13](https://github.com/ingenuity-build/quicksilver/releases/tag/v1.2.13) is released
 
 **1215**: Chain resumes
